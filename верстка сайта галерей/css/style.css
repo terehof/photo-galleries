@@ -307,6 +307,9 @@ aside.right .item span {
   display: block;
   border: 10px solid #292929;
 }
+.one-model .big-photo:hover {
+  border-color: #e75c46;
+}
 .one-model .big-photo img {
   display: block;
   height: 100%;
