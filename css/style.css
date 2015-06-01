@@ -492,6 +492,7 @@ footer p {
   color: #6e6e6e;
 }
 
+
 /****** begin для главной страницы  *****/
 /*общая ширина*/
 .wrapper.page-main {
@@ -501,6 +502,7 @@ footer p {
 /*  левая колонка  */
 .wrapper.page-main aside.left {
     width: 175px;
+    background-color: #E75C46;
 }
 /*  ///левая колонка */
 
@@ -529,6 +531,7 @@ footer p {
 /*  левая колонка  */
 .wrapper.page-gallery aside.left {
     width: 175px;
+    background-color: #E75C46;
 } /*  /левая колонка */
 
 /*  центральная колонка  */
@@ -544,6 +547,7 @@ footer p {
 /******  END для страницы галереи ******/
 
 
+
 /****** begin для страницы одного фото   *****/
 /*общая ширина*/
 .wrapper.page-one-photo {
@@ -553,6 +557,7 @@ footer p {
 /*  левая колонка  */
 .wrapper.page-one-photo aside.left {
     width: 175px;
+    background-color: #E75C46;
 }/* /левая колонка */
 
 /*  центральная колонка  */
@@ -560,7 +565,7 @@ footer p {
     width: 673px;
 }/* /центральная колонка */
 
-/* правая колонка  */
+/* правая колонка */
 .wrapper.page-one-photo aside.right {
     width: 163px;
 }  /* /правая колонка */
